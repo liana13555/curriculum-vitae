@@ -57,7 +57,7 @@ body {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
-    color: #434c5a;
+    color: #6d7f9b;
 }
 
 .contacts-link-type {
@@ -68,7 +68,7 @@ body {
     margin-right: 10px;
 }
 
-.tech-skills-title {
+.skills-title {
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
@@ -76,13 +76,13 @@ body {
     color: white;
 }
 
-.tech-skills-container {
+.skills-container {
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 55px;
 }
 
-.tech-skills-item {
+.skills-item {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -90,33 +90,7 @@ body {
     color: #ff6b08;
 }
 
-.tech-skills-text {
-    color: #d8dadd;
-}
-
-.soft-skills-title {
-    font-size: 22px;
-    font-weight: 700; 
-    line-height: 24px;
-    margin-bottom: 20px;
-    color: white;
-}
-
-.soft-skills-container {
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 55px;
-}
-
-.soft-skills-item {
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-    margin-left: 15px;
-    color: #ff6b08;    
-}
-
-.soft-skills-text {
+.skills-text {
     color: #d8dadd;
 }
 
@@ -139,6 +113,13 @@ body {
     font-weight: 400;
     line-height: 24px;
     margin-top: 24px;
+}
+
+.description-projects {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
 }
 
 .info-container {
@@ -216,12 +197,12 @@ body {
 }
 
 .univercity {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 24px;
     color: #fa6c0d;
     margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .education-container {
@@ -230,7 +211,12 @@ body {
 
 .faculty {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 500;
     line-height: 24px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.education-thumb {
+    margin-bottom: 25px;
 }
